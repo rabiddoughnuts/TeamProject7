@@ -9,6 +9,7 @@ People who attended:
 - Reese - Work on website and uploading documents to AWS
 - Brandon - Got users on AWS instance for hosting website
 - Muhammed - Refreshed on design specification and worked on configuring raspberry pi
+- Zack - Configuring enviroment to get AWS Docker set up
 
 ## Agenda Items
 
