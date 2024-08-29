@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield - set up git submodules, add templates, work on website
-- Person B
+- Brandon - set up git repository, add team members to repository
 - Person C
 
 ## Agenda Items
