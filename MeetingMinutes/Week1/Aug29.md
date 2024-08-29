@@ -10,7 +10,7 @@ People who attended:
 - Brandon - set up git repository, add team members to repository
 - Muhammed - Copying SD card contents with raspbian pi OS 
 - Nathan - Learned about the SDR.
-- Zack - Begin configuring AWS instance
+- Zack - Begin configuring AWS instance, got Docker installed
 ## Agenda Items
 
 [what you did here]
