@@ -1,18 +1,18 @@
 # Meeting Minutes
 ## Meeting Information
-**Meeting Date/Time:** meeting_date, meeting_time  
-**Meeting Location:** meeting_location  
+**Meeting Date/Time:** Tue, 8 AM  
+**Meeting Location:** Russ 146  
 **Note Taker:** note_taker  
 
 ## Attendees
 People who attended:
-- Person A
-- Person B
+- Reese - Work on website and uploading documents to AWS
+- Brandon - Got users on AWS instance for hosting website
 - Person C
 
 ## Agenda Items
 
-[what you did here]
+Team took inventory on parts, and refreshed ourselves on roles and processes.
 
 ## Other Notes & Information
 N/A
