@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Person A
+- Reese Hatfield - set up git submodules, add templates, work on website
 - Person B
 - Person C
 
