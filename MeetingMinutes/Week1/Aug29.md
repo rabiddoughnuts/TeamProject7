@@ -8,7 +8,7 @@
 People who attended:
 - Reese Hatfield - set up git submodules, add templates, work on website
 - Brandon - set up git repository, add team members to repository
-- Person C
+- Muhammed - Copying SD card contents with raspbian pi OS 
 
 ## Agenda Items
 
