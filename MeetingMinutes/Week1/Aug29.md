@@ -1,7 +1,7 @@
 # Meeting Minutes
 ## Meeting Information
-**Meeting Date/Time:** meeting_date, meeting_time  
-**Meeting Location:** meeting_location  
+**Meeting Date/Time:** Thursday, 8 AM  
+**Meeting Location:** Russ 314
 **Note Taker:** note_taker  
 
 ## Attendees
