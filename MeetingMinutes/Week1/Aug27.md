@@ -10,6 +10,7 @@ People who attended:
 - Brandon - Got users on AWS instance for hosting website
 - Muhammed - Refreshed on design specification and worked on configuring raspberry pi
 - Zack - Configuring enviroment for project
+- Nathan - Research
 
 ## Agenda Items
 
