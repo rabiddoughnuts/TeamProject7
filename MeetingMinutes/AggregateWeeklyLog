@@ -14,6 +14,8 @@ W00: 8/29/24 8AM-9:20AM
 •	Muhammed - Copying SD card contents with Raspbian pi OS
 •	Zack - Begin configuring AWS instance, got Docker installed
 •	Nathan - Learned about the SDR.
-W00: 9/03/24 8AM-9:20AM
+W01: 9/03/24 8AM-9:20AM
 • Reese - Set up website backend, configured vite for AWS config
-
+• Zack - Generated self signed cert for apache website
+•
+•
