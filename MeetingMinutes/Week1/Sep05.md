@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield - completed website backend
 - Brandon - 
 - Nathan - 
-- Zack - Working on setup for apache https for server
+- Zack - Working on setup for apache https and self signed cert
 ## Agenda Items
 
 
