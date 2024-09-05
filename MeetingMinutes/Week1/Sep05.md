@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield - completed website backend
-- Brandon - 
+- Brandon - installing pre-requisites for recieving wenet signal
 - Nathan - 
 - Zack - Working on setup for apache https and self signed cert
 ## Agenda Items
