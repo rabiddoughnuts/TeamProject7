@@ -15,7 +15,12 @@ W00: 8/29/24 8AM-9:20AM
 •	Zack - Begin configuring AWS instance, got Docker installed
 •	Nathan - Learned about the SDR.
 W01: 9/03/24 8AM-9:20AM
-• Reese - Set up website backend, configured vite for AWS config
-• Zack - Generated self signed cert for apache website
+•   Reese - Set up website backend, configured vite for AWS config
+•   Zack - Generated self signed cert for apache website
+•
+•
+W01 9/05/24 8AM-9:20AM
+•   Reese - Set up website backend, configured vite for AWS config
+•   Zack - Working on setup for apache https for server
 •
 •
