@@ -8,9 +8,9 @@
 People who attended:
 - Reese Hatfield - completed website backend
 - Brandon - installing pre-requisites for recieving wenet signal
-- Nathan - 
+- Nathan - learning and configuring wenet
 - Zack - Working on setup for apache https and self signed cert
-- installing wenet sw on pi and setting up ssh on pi's machine.
+- Muhammad - installing wenet sw on pi and setting up ssh on pi's machine.
 ## Agenda Items
 
 
