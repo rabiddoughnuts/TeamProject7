@@ -14,13 +14,18 @@ W00: 8/29/24 8AM-9:20AM
 •	Muhammed - Copying SD card contents with Raspbian pi OS
 •	Zack - Begin configuring AWS instance, got Docker installed
 •	Nathan - Learned about the SDR.
-W01: 9/03/24 8AM-9:20AM
-•   Reese - Set up website backend, configured vite for AWS config
-•   Zack - Generated self signed cert for apache website
-•
-•
-W01 9/05/24 8AM-9:20AM
-•   Reese - Set up website backend, configured vite for AWS config
-•   Zack - Working on setup for apache https for server
-•
-•
+W01: 9/3/24 8AM-9:20AM
+•	Reese Hatfield - setup website backend, configured vite for AWS hosting
+•	Brandon - work on setting up Apache for server hosting
+•	Nathan - learning and configuring wenet and docker
+•	Zack - research on openSSL configuration for https and generate self signed cert for apache
+•	Muhammed - finalized setting up raspbin on SD card used for the pi and researched wenet software modules.
+W01: 9/5/24 8AM-9:20AM
+•	Reese Hatfield - completed website backend
+•	Brandon - installing pre-requisites for recieving wenet signal
+•	Nathan - learning and configuring wenet
+•	Zack - Working on setup for apache https and self signed cert
+•	Muhammad - installing wenet sw on pi and setting up ssh on pi's machine.
+
+
+
