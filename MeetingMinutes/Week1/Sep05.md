@@ -10,6 +10,7 @@ People who attended:
 - Brandon - installing pre-requisites for recieving wenet signal
 - Nathan - 
 - Zack - Working on setup for apache https and self signed cert
+- installing wenet sw on pi and setting up ssh on pi's machine.
 ## Agenda Items
 
 
