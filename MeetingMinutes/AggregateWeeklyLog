@@ -27,17 +27,17 @@ W01: 9/5/24 8AM-9:20AM
 •	Zack - Working on setup for apache https and self signed cert
 •	Muhammad - Installing wenet sw on pi and setting up ssh on pi's machine.
 W02: 9/10/24 8AM-9:20AM
-•	Reese Hatfield - 
-•	Brandon - 
-•	Nathan - 
-•	Zack -
-•	Muhammad -
+•	Reese Hatfield - Work on website
+•	Brandon - Manage AWS instance and security settings
+•	Nathan - Read documentation to execute plans
+•	Zack - Worked on Apache config to get self signed cert working
+•	Muhammad - Continued to prepare the software required to run wenet on the raspberry pi
 W02: 9/12/24 8AM-9:20AM
-•	Reese Hatfield - 
-•	Brandon - 
-•	Nathan - 
-•	Zack - 
-•	Muhammad - 
+•	Reese Hatfield - Connecting front end and back end of the website
+•	Brandon - Managing AWS instance and security settings
+•	Nathan - Strategized to use SDR next week
+•	Zack - Self signed Apache server cert made for https and the appropriate configuration
+•	Muhammad - Worked on python script that will be used to detect, sort, and modify the death star images.
 
 
 
