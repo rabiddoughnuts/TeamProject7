@@ -9,7 +9,7 @@ People who attended:
 - Reese - Work on website
 - Zach - Worked on Apache config to get self signed cert working
 - Brandon - Manage AWS instance and security settings
-- Muhammed -
+- Muhammed - Continued to prepare the  software required to run wenet on the raspberry pi
 - Nathan - 
 
 ## Other Notes & Information
