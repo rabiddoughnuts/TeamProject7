@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese - Work on website
-- Zach - Work on Apache config
+- Zach - Worked on Apache config to get self signed cert working
 - Brandon - Manage AWS instance and security settings
 - Muhammed -
 - Nathan - 
