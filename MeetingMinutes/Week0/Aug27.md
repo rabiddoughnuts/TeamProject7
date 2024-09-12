@@ -2,7 +2,7 @@
 ## Meeting Information
 **Meeting Date/Time:** Tue, 8 AM  
 **Meeting Location:** Russ 146  
-**Note Taker:** note_taker  
+**Note Taker:** Reese  
 
 ## Attendees
 People who attended:
