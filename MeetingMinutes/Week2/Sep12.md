@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese - Connecting front end and back end of the website
-- Zach - server certificate for https and the appropriate configuration
+- Zach - Self signed Apache server cert made for https and the appropriate configuration
 - Brandon - Managing AWS instance and security settings
 - Muhammed -
 - Nathan -
