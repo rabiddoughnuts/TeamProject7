@@ -6,11 +6,11 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield - setup website backend, configured vite for AWS hosting
-- Brandon - work on setting up Apache for server hosting
-- Nathan - learning and configuring wenet and docker
-- Zack - research on openSSL configuration for https and generate self signed cert for apache
-- Muhammed - finalized setting up raspbin on SD card used for the pi and researched wenet software modules.
+- Reese - Setup website backend, configured vite for AWS hosting
+- Brandon - Work on setting up Apache for server hosting
+- Nathan - Learning and configuring wenet
+- Zack - Research on openSSL configuration for https and generate self signed cert for apache
+- Muhammed - Finalized setting up raspbin on SD card used for the pi and researched wenet software modules.
 ## Agenda Items
 
 
