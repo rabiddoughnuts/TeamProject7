@@ -3,29 +3,29 @@ Group 7
 Weekly Meeting Minutes
 
 W00: 8/27/24 8AM-9:20AM
-•	Reese - Work on website and uploading documents to AWS
+•	Reese - Worked on website and uploading documents to AWS
 •	Brandon - Got users on AWS instance for hosting website
 •	Muhammed - Refreshed on design specification and worked on configuring raspberry pi
 •	Zack - Configuring environment for project
 •	Nathan – Research
 W00: 8/29/24 8AM-9:20AM
-•	Reese - set up git submodules, add templates, work on website
-•	Brandon - set up git repository, add team members to repository
+•	Reese - Set up git submodules, add templates, work on website
+•	Brandon - Set up git repository, add team members to repository
 •	Muhammed - Copying SD card contents with Raspbian pi OS
 •	Zack - Begin configuring AWS instance, got Docker installed
 •	Nathan - Learned about the SDR.
 W01: 9/3/24 8AM-9:20AM
-•	Reese Hatfield - setup website backend, configured vite for AWS hosting
-•	Brandon - work on setting up Apache for server hosting
-•	Nathan - learning and configuring wenet and docker
-•	Zack - research on openSSL configuration for https and generate self signed cert for apache
-•	Muhammed - finalized setting up raspbin on SD card used for the pi and researched wenet software modules.
+•	Reese Hatfield - Setup website backend, configured vite for AWS hosting
+•	Brandon - Work on setting up Apache for server hosting
+•	Nathan - Learning and configuring wenet
+•	Zack - Research on openSSL configuration for https and generate self signed cert for apache
+•	Muhammed - Finalized setting up raspbin on SD card used for the pi and researched wenet software modules.
 W01: 9/5/24 8AM-9:20AM
-•	Reese Hatfield - completed website backend
-•	Brandon - installing pre-requisites for recieving wenet signal
-•	Nathan - learning and configuring wenet
+•	Reese Hatfield - Completed website backend
+•	Brandon - Installing pre-requisites for recieving wenet signal
+•	Nathan - Learning and configuring wenet
 •	Zack - Working on setup for apache https and self signed cert
-•	Muhammad - installing wenet sw on pi and setting up ssh on pi's machine.
+•	Muhammad - Installing wenet sw on pi and setting up ssh on pi's machine.
 
 
 
