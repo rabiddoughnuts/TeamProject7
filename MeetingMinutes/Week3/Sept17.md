@@ -6,8 +6,8 @@
 
 ## Attendees
 People who attended:
-- Reese - 
-- Zach - 
+- Reese Hatfield - Work on getting backend working with reverse proxy
+- Zack - Troubleshoot Apache configs for reverse proxy to serve backend
 - Brandon - 
 - Muhammed - ABSENT
 - Nathan - 
