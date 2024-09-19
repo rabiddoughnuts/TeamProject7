@@ -8,7 +8,7 @@
 People who attended:
 - Reese Hatfiled - Debugging incorrect GET request on frontend of website, audited website security with Zack
 - Zack - Checked current security infrastructure/Audited website security 
-- Brandon - 
+- Brandon - Tested transmission process
 - Muhammed - Continued testing wenet on pi in the image transmission process. 
 - Nathan - Researched Nooelec RTL -SDR
 ## Other Notes & Information
