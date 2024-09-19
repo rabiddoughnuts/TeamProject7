@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese - Debugging incorrect GET request on frontend of website, audited website security with Zack
+- Reese Hatfiled - Debugging incorrect GET request on frontend of website, audited website security with Zack
 - Zack - Checked current security infrastructure/Audited website security 
 - Brandon - 
 - Muhammed - ABSENT
