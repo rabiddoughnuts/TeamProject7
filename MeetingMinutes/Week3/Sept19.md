@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese - Debugging incorrect GET request on frontend of website, audited website security with Zach
-- Zach - 
+- Zack - Checked current security infrastructure/Audited website security 
 - Brandon - 
 - Muhammed - ABSENT
 - Nathan - Researched Nooelec RTL -SDR
