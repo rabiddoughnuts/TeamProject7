@@ -10,7 +10,7 @@ People who attended:
 - Zach - 
 - Brandon - 
 - Muhammed - ABSENT
-- Nathan - 
+- Nathan - Researched Nooelec RTL -SDR
 ## Other Notes & Information
 N/A
 
