@@ -8,7 +8,7 @@
 People who attended:
 - Reese Hatfield - Work on getting backend working with reverse proxy
 - Zack - Troubleshoot Apache configs for reverse proxy to serve backend
-- Brandon - 
+- Brandon - Checked wenet repo for implementation
 - Muhammed - Started testing the wenet modules to transmit image files.
 - Nathan - Identified Raspberry Pi GPIO
 ## Other Notes & Information
