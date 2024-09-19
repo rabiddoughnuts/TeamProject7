@@ -10,6 +10,6 @@ People who attended:
 - Zack - Troubleshoot Apache configs for reverse proxy to serve backend
 - Brandon - 
 - Muhammed - ABSENT
-- Nathan - 
+- Nathan - Identified Raspberry Pi GPIO
 ## Other Notes & Information
 N/A
