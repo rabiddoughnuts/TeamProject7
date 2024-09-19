@@ -14,6 +14,7 @@ W00: 8/29/24 8AM-9:20AM
 •	Muhammed - Copying SD card contents with Raspbian pi OS
 •	Zack - Begin configuring AWS instance, got Docker installed
 •	Nathan - Learned about the SDR.
+
 W01: 9/3/24 8AM-9:20AM
 •	Reese Hatfield - Setup website backend, configured vite for AWS hosting
 •	Brandon - Work on setting up Apache for server hosting
@@ -26,6 +27,7 @@ W01: 9/5/24 8AM-9:20AM
 •	Nathan - Learning and configuring wenet
 •	Zack - Working on setup for apache https and self signed cert
 •	Muhammad - Installing wenet sw on pi and setting up ssh on pi's machine.
+
 W02: 9/10/24 8AM-9:20AM
 •	Reese Hatfield - Work on website
 •	Brandon - Manage AWS instance and security settings
@@ -39,5 +41,16 @@ W02: 9/12/24 8AM-9:20AM
 •	Zack - Self signed Apache server cert made for https and the appropriate configuration
 •	Muhammad - Worked on python script that will be used to detect, sort, and modify the death star images.
 
-
+W03: 9/17/24 8AM-9:20AM
+• Reese Hatfield - Work on getting backend working with reverse proxy
+• Zack - Troubleshoot Apache configs for reverse proxy to serve backend
+• Brandon - Checked wenet repo for implementation
+• Muhammed - Started testing the wenet modules to transmit image files.
+• Nathan - Identified Raspberry Pi GPIO
+W03: 9/19/24 8AM-9:20AM
+•	Reese Hatfiled - Debugging incorrect GET request on frontend of website, audited website security with Zack
+•	Zack - Checked current security infrastructure/Audited website security
+•	Brandon - Tested transmission process
+•	Muhammed - Continued testing wenet on pi in the image transmission process.
+•	Nathan - Researched Nooelec RTL -SDR
 
