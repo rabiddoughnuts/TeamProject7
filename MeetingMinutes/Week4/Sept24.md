@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfiled - 
-- Zack - 
+- Zack - Tested Openssl md5 hash generation and made a small shell script for md5 hashing
 - Brandon - 
 - Muhammed - 
 - Nathan - 
