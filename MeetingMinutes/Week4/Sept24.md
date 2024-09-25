@@ -8,8 +8,8 @@
 People who attended:
 - Reese Hatfiled - 
 - Zack - Tested Openssl md5 hash generation and made a small shell script for md5 hashing
-- Brandon - 
-- Muhammed - 
+- Brandon - Troubleshoot Wenet Transmission.
+- Muhammed - Install libjxl for image compression and viewing software
 - Nathan - 
 ## Other Notes & Information
 N/A
