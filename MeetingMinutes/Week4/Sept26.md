@@ -8,7 +8,7 @@
 People who attended:
 - Reese Hatfiled - 
 - Zack - Worked on Apache website index to redirect to webpage 
-- Brandon - 
+- Brandon - Troubleshoot wenet/Raspberry Pi configuration
 - Muhammed -
 - Nathan - 
 ## Other Notes & Information
