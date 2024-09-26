@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfiled - 
-- Zack - 
+- Zack - Worked on Apache website index to redirect to webpage 
 - Brandon - 
 - Muhammed -
 - Nathan - 
