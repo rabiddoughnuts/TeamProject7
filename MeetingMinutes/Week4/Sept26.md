@@ -10,6 +10,7 @@ People who attended:
 - Zack - Worked on Apache website index to redirect to webpage 
 - Brandon - Troubleshoot wenet/Raspberry Pi configuration
 - Muhammed - Troubleshoot wenet/Raspberry Pi configuration. Download additional software to pi such as windows manager.
-- Nathan - 
+- Nathan - Reviewed SDR Requirements
+
 ## Other Notes & Information
 N/A
