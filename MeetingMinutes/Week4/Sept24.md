@@ -10,6 +10,7 @@ People who attended:
 - Zack - Tested Openssl md5 hash generation and made a small shell script for md5 hashing
 - Brandon - Troubleshoot Wenet Transmission.
 - Muhammed - Install libjxl for image compression and viewing software
-- Nathan - 
+- Nathan - Examined MD5 Sum with Zack
+
 ## Other Notes & Information
 N/A
