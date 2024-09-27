@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfiled - 
 - Zack - Worked on Apache website index to redirect to webpage 
 - Brandon - Troubleshoot wenet/Raspberry Pi configuration
-- Muhammed -
+- Muhammed - Troubleshoot wenet/Raspberry Pi configuration. Download additional software to pi such as windows manager.
 - Nathan - 
 ## Other Notes & Information
 N/A
