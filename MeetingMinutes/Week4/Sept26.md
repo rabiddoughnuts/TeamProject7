@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfiled - 
+- Reese Hatfiled - Train image detection
 - Zack - Worked on Apache website index to redirect to webpage 
 - Brandon - Troubleshoot wenet/Raspberry Pi configuration
 - Muhammed - Troubleshoot wenet/Raspberry Pi configuration. Download additional software to pi such as windows manager.
