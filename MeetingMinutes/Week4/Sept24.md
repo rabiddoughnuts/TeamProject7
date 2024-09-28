@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfiled - 
+- Reese Hatfiled - Website completed, moved toward image detection
 - Zack - Tested Openssl md5 hash generation and made a small shell script for md5 hashing
 - Brandon - Troubleshoot Wenet Transmission.
 - Muhammed - Install libjxl for image compression and viewing software
