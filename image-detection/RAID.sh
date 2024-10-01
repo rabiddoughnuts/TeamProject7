@@ -45,6 +45,8 @@ if [[ "$1" == "--dir" ]]; then
         exit 1
     fi
 
+    mkdir -p ./out
+
     echo "Classifying images in directory: $2"
 
     python3 src/detection.py $2

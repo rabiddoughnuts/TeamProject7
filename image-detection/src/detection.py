@@ -1,6 +1,7 @@
 from ultralytics import YOLO
 import sys
 import os
+import shutil
 
 
 def main():
@@ -21,8 +22,13 @@ def main():
         
         boxes = result[0].boxes.xyxy
 
-        detected_images = len(boxes) != 0
-        print(detected_images)
+        detected_death_star = len(boxes) != 0
+        print(detected_death_star)
+        
+        if detected_death_star:
+            # this may need to like do the cropping n stuff here. but for now, this works
+            new_path = os.path.join("./out", file)
+            shutil.copyfile(filename, new_path)
         
 
     # results = model('examples/testMe.jpeg')

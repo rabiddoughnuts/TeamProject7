@@ -30,4 +30,7 @@ logs/
 README.dataset.txt
 README.roboflow.txt
 
+# ignore copied output images
+out/
+
 
