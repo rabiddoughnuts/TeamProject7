@@ -1,0 +1,29 @@
+# venv stuff
+venv/
+ENV/
+
+
+# python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env
+.venv
+
+# ignore large dataset stuff
+runs/
+*.pt
+
+# logs
+logs/
+*.log
+*.out
+
+# ides
+.vscode/
+.idea/
+
+
