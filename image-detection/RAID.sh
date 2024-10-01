@@ -45,6 +45,7 @@ if [[ "$1" == "--dir" ]]; then
         exit 1
     fi
 
+    # may wanna make this a param at some point
     mkdir -p ./out
 
     echo "Classifying images in directory: $2"
