@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfiled - 
+- Reese Hatfield - 
 - Zack -  
 - Brandon -
 - Muhammed -
