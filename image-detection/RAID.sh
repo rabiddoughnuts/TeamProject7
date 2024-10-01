@@ -10,8 +10,6 @@ then
 fi 
 
 
-
-
 usage () {
     echo "Usage:"
     echo " --train             Re-train the death star detector"
@@ -30,7 +28,7 @@ if [[ "$1" == "--train" ]]; then
     rm -r runs
     echo "Training!"
 
-    python3 src/train-detection.py
+    python3 src/train-detection.py 5
     exit 0
 fi
 

@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield - 
+- Reese Hatfield - Wrapping image detection in a directory script
 - Zack -  
 - Brandon -
 - Muhammed -
