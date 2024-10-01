@@ -7,7 +7,7 @@ epochs = int(sys.argv[1])
 model.train(
     data='./roboflow/data.yaml',    
     epochs=epochs,   
-    imgsz=640,             
+    imgsz=640,     
     batch=16,              
     workers=4              
 )
