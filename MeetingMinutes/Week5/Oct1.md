@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield - Wrapping image detection in a directory script
-- Zack -  
+- Zack - Worked on mobile app development/implementation
 - Brandon -
 - Muhammed - Troubleshooting wenet script for transmnission setup
 - Nathan - 
