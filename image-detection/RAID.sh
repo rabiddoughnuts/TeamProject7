@@ -42,12 +42,12 @@ if [[ "$1" == "--dir" ]]; then
     if [ -z "$2" ]; then # len == 0
         echo "Error: Ooops no path. Need path."
         usage
-        # exit 1
+        exit 1
     fi
 
     echo "Classifying images in directory: $2"
 
-    python3 src/detection.py
+    python3 src/detection.py $2
 
     exit 0
 fi
