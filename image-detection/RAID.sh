@@ -9,6 +9,12 @@ if [ -f "roboflow/README.dataset.txt" ]; then
 fi 
 
 
+# may wanna make this a param at some point
+mkdir -p ./out
+
+# clean anything from past run
+rm ./out/*
+
 usage () {
     echo "Usage:"
     echo " --train [num_epochs]     Re-train the death star detector with number of epochs"
@@ -45,8 +51,8 @@ if [[ "$1" == "--dir" ]]; then
         exit 1
     fi
 
-    # may wanna make this a param at some point
-    mkdir -p ./out
+
+
 
     echo "Classifying images in directory: $2"
 
