@@ -14,11 +14,15 @@ def main():
 
     model = YOLO(weights)
 
-    for file in os.listdir(directory):
+    for i, file in enumerate(os.listdir(directory)):
         
         filename = os.path.join(directory, file)
         # print(filename)
         result = model(filename)
+        
+        
+        
+        
         
         boxes = result[0].boxes.xyxy
 
@@ -28,7 +32,11 @@ def main():
         if detected_death_star:
             # this may need to like do the cropping n stuff here. but for now, this works
             new_path = os.path.join("./out", file)
-            shutil.copyfile(filename, new_path)
+            print(new_path)
+            
+            result[0].save(new_path)
+            # new_path = os.path.join("./out", file)
+            # shutil.copyfile(filename, new_path)
         
 
     # results = model('examples/testMe.jpeg')
