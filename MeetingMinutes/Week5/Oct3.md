@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield - Adding negative sample images to image detection
-- Zack -  
+- Zack - Researched and looked at improving md5.sh hash script
 - Brandon -
 - Muhammed -
 - Nathan - 
