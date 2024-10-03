@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield - 
+- Reese Hatfield - Adding negative sample images to image detection
 - Zack -  
 - Brandon -
 - Muhammed -
