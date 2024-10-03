@@ -10,7 +10,7 @@ People who attended:
 - Zack - Researched and looked at improving md5.sh hash script
 - Brandon -
 - Muhammed -
-- Nathan - 
+- Nathan - Provided alternative Lora tutorial to inventory
 
 ## Other Notes & Information
 N/A
