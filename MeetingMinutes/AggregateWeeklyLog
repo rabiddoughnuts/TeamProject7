@@ -1,38 +1,35 @@
-Team Projects II 
-Group 7
+Team Projects II | Group 7
 Weekly Meeting Minutes
 
 W00: 8/27/24 8AM-9:20AM
-•	Reese - Worked on website and uploading documents to AWS
+•	Reese Hatfield - Worked on website and uploading documents to AWS
 •	Brandon - Got users on AWS instance for hosting website
 •	Muhammed - Refreshed on design specification and worked on configuring raspberry pi
 •	Zack - Configuring environment for project
 •	Nathan – Research
 W00: 8/29/24 8AM-9:20AM
-•	Reese - Set up git submodules, add templates, work on website
+•	Reese Hatfield - Set up git submodules, add templates, work on website
 •	Brandon - Set up git repository, add team members to repository
 •	Muhammed - Copying SD card contents with Raspbian pi OS
 •	Zack - Begin configuring AWS instance, got Docker installed
 •	Nathan - Learned about the SDR.
-
 W01: 9/3/24 8AM-9:20AM
 •	Reese Hatfield - Setup website backend, configured vite for AWS hosting
 •	Brandon - Work on setting up Apache for server hosting
 •	Nathan - Learning and configuring wenet
-•	Zack - Research on openSSL configuration for https and generate self signed cert for apache
-•	Muhammed - Finalized setting up raspbin on SD card used for the pi and researched wenet software modules.
+•	Zack - Research on OpenSSL configuration for https and generate self-signed cert for Apache
+•	Muhammed - Finalized setting up Raspbian on SD card used for the pi and researched wenet software modules.
 W01: 9/5/24 8AM-9:20AM
 •	Reese Hatfield - Completed website backend
-•	Brandon - Installing pre-requisites for recieving wenet signal
+•	Brandon - Installing pre-requisites for receiving wenet signal
 •	Nathan - Learning and configuring wenet
-•	Zack - Working on setup for apache https and self signed cert
+•	Zack - Working on setup for Apache https and self-signed cert
 •	Muhammad - Installing wenet sw on pi and setting up ssh on pi's machine.
-
 W02: 9/10/24 8AM-9:20AM
 •	Reese Hatfield - Work on website
 •	Brandon - Manage AWS instance and security settings
 •	Nathan - Read documentation to execute plans
-•	Zack - Worked on Apache config to get self signed cert working
+•	Zack - Worked on Apache config to get self-signed cert working
 •	Muhammad - Continued to prepare the software required to run wenet on the raspberry pi
 W02: 9/12/24 8AM-9:20AM
 •	Reese Hatfield - Connecting front end and back end of the website
@@ -40,17 +37,41 @@ W02: 9/12/24 8AM-9:20AM
 •	Nathan - Strategized to use SDR next week
 •	Zack - Self signed Apache server cert made for https and the appropriate configuration
 •	Muhammad - Worked on python script that will be used to detect, sort, and modify the death star images.
-
 W03: 9/17/24 8AM-9:20AM
-• Reese Hatfield - Work on getting backend working with reverse proxy
-• Zack - Troubleshoot Apache configs for reverse proxy to serve backend
-• Brandon - Checked wenet repo for implementation
-• Muhammed - Started testing the wenet modules to transmit image files.
-• Nathan - Identified Raspberry Pi GPIO
+•	Reese Hatfield - Work on getting backend working with reverse proxy
+•	Zack - Troubleshoot Apache configs for reverse proxy to serve backend
+•	Brandon - Checked wenet repo for implementation
+•	Muhammed - Started testing the wenet modules to transmit image files.
+•	Nathan - Identified Raspberry Pi GPIO
 W03: 9/19/24 8AM-9:20AM
-•	Reese Hatfiled - Debugging incorrect GET request on frontend of website, audited website security with Zack
+•	Reese Hatfield - Debugging incorrect GET request on frontend of website, audited website security with Zack
 •	Zack - Checked current security infrastructure/Audited website security
 •	Brandon - Tested transmission process
 •	Muhammed - Continued testing wenet on pi in the image transmission process.
 •	Nathan - Researched Nooelec RTL -SDR
+W04: 9/24/24 8AM-9:20AM
+•	Reese Hatfield - Website completed, moved toward image detection
+•	Zack - Tested OpenSSL md5 hash generation and made a small shell script for md5 hashing
+•	Brandon - Troubleshoot Wenet Transmission.
+•	Muhammed - Install libjxl for image compression and viewing software
+•	Nathan - Examined MD5 Sum with Zack
+W04: 9/26/24 8AM-9:20AM
+•	Reese Hatfield - Train image detection
+•	Zack - Worked on Apache website index to redirect to webpage 
+•	Brandon - Troubleshoot wenet/Raspberry Pi configuration
+•	Muhammed - Troubleshoot wenet/Raspberry Pi configuration. Download additional software to pi such as windows manager.
+•	Nathan - Reviewed SDR Requirements
+W05: 10/01/24 8AM-9:20AM
+•	Reese Hatfield - Wrapping image detection in a directory script
+•	Zack - Worked on mobile app development/implementation
+•	Brandon - Troubleshooting wenet for transmission
+•	Muhammed - Troubleshooting wenet script for transmission setup
+•	Nathan - Worked on finding alternative radio transmission procedure
+W05: 10/03/24 8AM-9:20AM
+•	Reese Hatfield - Adding negative sample images to image detection
+•	Zack - Researched and looked at improving md5.sh hash script
+•	Brandon - Continued to troubleshoot wenet for transmission
+•	Muhammed - Added more sample images for detection
+•	Nathan - Provided alternative Lora tutorial to inventory
+
 
