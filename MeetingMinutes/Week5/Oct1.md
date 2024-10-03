@@ -10,7 +10,7 @@ People who attended:
 - Zack - Worked on mobile app development/implementation
 - Brandon -
 - Muhammed - Troubleshooting wenet script for transmnission setup
-- Nathan - 
+- Nathan - Worked on finding alternative radio transmission procedure
 
 ## Other Notes & Information
 N/A
