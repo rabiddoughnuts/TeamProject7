@@ -32,9 +32,9 @@ if [[ "$1" == "--train" ]]; then
 
     # rm old runs to make sure file path matches on check
     rm -r runs
-    echo "Training!"
+    echo "Training..."
 
-    python3 src/train-detection.py $2 # turn this into command line arg
+    python3 src/train-detection.py $2 
     exit 0
 fi
 
@@ -59,14 +59,10 @@ if [[ "$1" == "--in" ]]; then
 
 
     OUTDIR="$4"
-
-
-
     mkdir -p $OUTDIR
-
+    
     # clean anything from past run
     rm $OUTDIR/*
-
 
     echo "Classifying images in directory: $2"
 

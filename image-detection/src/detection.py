@@ -15,16 +15,15 @@ def main():
     weights = './runs/detect/train/weights/best.pt'
 
     model = YOLO(weights)
+    
+    prefix_index = 0
 
     for i, file in enumerate(os.listdir(input_dir)):
+        
         
         filename = os.path.join(input_dir, file)
         # print(filename)
         result = model(filename)
-        
-        
-        
-        
         
         boxes = result[0].boxes.xyxy
 
@@ -33,8 +32,12 @@ def main():
         
         
         if detected_death_star:
+            
+            prefix = str(prefix_index).zfill(2)
+            prefix_index += 1
+            
             # this may need to like do the cropping n stuff here. but for now, this works
-            new_path = os.path.join(output_dir, file)
+            new_path = os.path.join(output_dir, f"{prefix}-{file}")
             print(result[0].boxes.conf)
             
             result[0].save(new_path)
