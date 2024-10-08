@@ -6,17 +6,19 @@ import shutil
 
 def main():
 
-    directory = sys.argv[1]
+    input_dir = sys.argv[1]
+    output_dir = sys.argv[2]
 
-    directory = os.path.abspath(directory)
+    input_dir = os.path.abspath(input_dir)
+    output_dir = os.path.abspath(output_dir)
 
     weights = './runs/detect/train/weights/best.pt'
 
     model = YOLO(weights)
 
-    for i, file in enumerate(os.listdir(directory)):
+    for i, file in enumerate(os.listdir(input_dir)):
         
-        filename = os.path.join(directory, file)
+        filename = os.path.join(input_dir, file)
         # print(filename)
         result = model(filename)
         
@@ -27,12 +29,13 @@ def main():
         boxes = result[0].boxes.xyxy
 
         detected_death_star = len(boxes) != 0
-        print(detected_death_star)
+        
+        
         
         if detected_death_star:
             # this may need to like do the cropping n stuff here. but for now, this works
-            new_path = os.path.join("./out", file)
-            print(new_path)
+            new_path = os.path.join(output_dir, file)
+            print(result[0].boxes.conf)
             
             result[0].save(new_path)
             # new_path = os.path.join("./out", file)

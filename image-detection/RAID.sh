@@ -9,16 +9,10 @@ if [ -f "roboflow/README.dataset.txt" ]; then
 fi 
 
 
-# may wanna make this a param at some point
-mkdir -p ./out
-
-# clean anything from past run
-rm ./out/*
-
 usage () {
     echo "Usage:"
-    echo " --train [num_epochs]     Re-train the death star detector with number of epochs"
-    echo " --dir [path]             Run the image classifier on every file in a directory"
+    echo " --train [num_epochs]          Re-train the death star detector with number of epochs"
+    echo " --in [path] --out [path]      Run the image classifier on every file in a directory"
 }
 
 if [ $# -eq 0 ]; then
@@ -44,19 +38,39 @@ if [[ "$1" == "--train" ]]; then
     exit 0
 fi
 
-if [[ "$1" == "--dir" ]]; then
+if [[ "$1" == "--in" ]]; then
     if [ -z "$2" ]; then # len == 0
         echo "Error: Ooops no path. Need path."
         usage
         exit 1
     fi
 
+    if [ "$3" != "--out" ]; then
+        echo "Error: Need to specify output dir"
+        usage
+        exit 1
+    fi
 
+    if [ -z "$4" ]; then
+        echo "Error: Need to specify output dir"
+        usage
+        exit 1
+    fi
+
+
+    OUTDIR="$4"
+
+
+
+    mkdir -p $OUTDIR
+
+    # clean anything from past run
+    rm $OUTDIR/*
 
 
     echo "Classifying images in directory: $2"
 
-    python3 src/detection.py $2
+    python3 src/detection.py $2 $OUTDIR
 
     exit 0
 fi
