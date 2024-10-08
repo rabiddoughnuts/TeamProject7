@@ -39,7 +39,7 @@ if [[ "$1" == "--train" ]]; then
 fi
 
 if [[ "$1" == "--in" ]]; then
-    if [ -z "$2" ]; then # len == 0
+    if [ -z "$2" ]; then 
         echo "Error: Ooops no path. Need path."
         usage
         exit 1
