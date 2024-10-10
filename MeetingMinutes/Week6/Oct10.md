@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield -  
 - Zack - Generated aes-256-cbc key and iv to use for encryption and decryption during transmisson
 - Brandon -
-- Muhammed - Worked on machine learning algorithm using roboflow
+- Muhammed - Worked on machine learning algorithm using roboflow, refining data and precision of model
 - Nathan - 
 
 ## Other Notes & Information
