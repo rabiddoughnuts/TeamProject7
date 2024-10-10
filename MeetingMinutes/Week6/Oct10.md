@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield -  
 - Zack - 
 - Brandon -
-- Muhammed - 
+- Muhammed - Worked on machine learning algorithm using roboflow
 - Nathan - 
 
 ## Other Notes & Information
