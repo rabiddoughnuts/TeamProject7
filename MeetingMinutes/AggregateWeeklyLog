@@ -80,6 +80,9 @@ W06: 10/08/24 8AM-9:20AM
 • Muhammed - Troubleshoot wenet transmission process.
 • Nathan - Informed team of The Things Network
 W06: 10/10/24 8AM-9:20AM
-
-
+• Reese Hatfield - Continued training death star detection model using roboflow
+• Zack - Generated aes-256-cbc key and iv to use for encryption and decryption during transmisson
+• Brandon - Troubleshoot hardware to isolate transmission issue from Pi to Computer
+• Muhammed - Worked on machine learning algorithm using roboflow, refining data and precision of model
+• Nathan - Provided alternative to wenet RTL-SDR topology
 
