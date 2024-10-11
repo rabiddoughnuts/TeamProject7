@@ -10,7 +10,7 @@ People who attended:
 - Zack - Worked with the team to settle on how the md5.sh script will hash images and be implemented
 - Brandon - Troubleshoot wenet hardware and software configs for transmission. 
 - Muhammed - Troubleshoot wenet transmission process. 
-- Nathan - 
+- Nathan - Informed team of The Things Network
 
 ## Other Notes & Information
 N/A
