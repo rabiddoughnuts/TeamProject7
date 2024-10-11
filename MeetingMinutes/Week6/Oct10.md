@@ -10,7 +10,7 @@ People who attended:
 - Zack - Generated aes-256-cbc key and iv to use for encryption and decryption during transmisson
 - Brandon - Troubleshoot hardware to isolate transmission issue from Pi to Computer
 - Muhammed - Worked on machine learning algorithm using roboflow, refining data and precision of model
-- Nathan - 
+- Nathan - Provided alternative to wenet RTL-SDR topology
 
 ## Other Notes & Information
 N/A
