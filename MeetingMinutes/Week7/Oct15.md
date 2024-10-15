@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield -
-- Zack - Begin drafting the final presentation and discussing its content with the group
+- Zack - Began drafting the final presentation and discussing its content with the group
 - Brandon -
 - Muhammed -
 - Nathan - 
