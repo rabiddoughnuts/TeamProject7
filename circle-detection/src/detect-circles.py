@@ -3,7 +3,7 @@ import numpy as np
 import sys
 import os
 
-
+# https://github.com/ChristophRahn/red-circle-detection/blob/master/red-circle-detection.py
 def detect_red_circle(image_path):
     image = cv2.imread(image_path)
 
