@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield -
+- Reese Hatfield - Making red circle detection work with whole directories instead of just a single image
 - Zack -
 - Brandon -
 - Muhammed -
