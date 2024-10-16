@@ -1,0 +1,1 @@
+This is a sample file that should be ignored by the image detection. Just a test tbh

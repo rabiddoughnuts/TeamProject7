@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import sys
-
+import os
 
 
 def detect_red_circle(image_path):
@@ -49,25 +49,34 @@ def crop_circle(image, x, y, r):
 
 def main():
     
+    # paths should have already been resolved
     in_dir = sys.argv[1]
     out_dir = sys.argv[2]
+        
     
-    image_path = 'examples/redCircle0.png'
-    result = detect_red_circle(image_path)
+    files = [file for file in os.listdir(in_dir) if file.endswith(".png")] # think we only need to support png files?
+    
+    file_index = 0
+    for file in files:
+        full_path = os.path.join(in_dir, file)
+        result = detect_red_circle(full_path)
 
-    if result:
-        x, y, r = result
-        print(f"Red circle found at (x: {x}, y: {y}) with radius {r}")
+        if result:
+            x, y, r = result
+            print(f"Red circle found at (x: {x}, y: {y}) with radius {r}")
 
-        image = cv2.imread(image_path)
+            image = cv2.imread(full_path)
 
-        cropped_image = crop_circle(image, x, y, r)
+            cropped_image = crop_circle(image, x, y, r)
 
-        output_path = 'examples/cropped_red_circle.png'
-        cv2.imwrite(output_path, cropped_image)
-        print(f"Cropped image saved to {output_path}")
-    else:
-        print("No red circle detected.")
+            path_of_cropped = os.path.join(out_dir, f"{file_index}-file.png")
+            file_index += 1
+            
+            print(f"Path to cropped: {path_of_cropped}")
+            cv2.imwrite(path_of_cropped, cropped_image)
+            print(f"Cropped image saved to {out_dir}")  
+        else:
+            print("No red circle detected in img.")
 
 if __name__ == "__main__":
     main()

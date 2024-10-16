@@ -13,13 +13,13 @@ if [ "$#" -ne 4 ]; then
     exit 1
 fi
 
-if [[ "$1" != "--in" ]]; then
+if [ "$1" != "--in" ]; then
     echo "Bad --in arg"
     usage
     exit 1
 fi
 
-if [[ "$3" != "--out" ]]; then
+if [ "$3" != "--out" ]; then
     echo "Bad --out arg"
     usage
     exit 1
@@ -39,10 +39,6 @@ fi
 in_path=$(realpath "$2")
 out_path=$(realpath "$4")
 
-
-
-echo "Input directory: $in_path"
-echo "Output directory: $out_path"
 
 python3 src/detect-circles.py $in_path $out_path
 
