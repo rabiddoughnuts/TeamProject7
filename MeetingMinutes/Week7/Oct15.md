@@ -8,7 +8,7 @@
 People who attended:
 - Reese Hatfield - Creating a prototype for red circle detection with OpenCV
 - Zack - Began drafting the final presentation and discussing its content with the group
-- Brandon -
+- Brandon - Troubleshooting transmission STILL
 - Muhammed -
 - Nathan - 
 
