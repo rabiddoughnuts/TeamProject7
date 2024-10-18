@@ -8,7 +8,7 @@
 People who attended:
 - Reese Hatfield - Making red circle detection work with whole directories instead of just a single image
 - Zack - Transferred encryption key, initial value, and md5 script to teammate posing as rebel server
-- Brandon -
+- Brandon - Finally got successful Transmission, working on testing transfer fidelity, and optimizing speed/tying functions together with scripting.
 - Muhammed -
 - Nathan - 
 
