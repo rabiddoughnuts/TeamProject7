@@ -10,7 +10,7 @@ People who attended:
 - Zack - Transferred encryption key, initial value, and md5 script to teammate posing as rebel server
 - Brandon - Finally got successful Transmission, working on testing transfer fidelity, and optimizing speed/tying functions together with scripting.
 - Muhammed -
-- Nathan - 
+- Nathan - Assisting with transmission hardware troubleshooting
 
 ## Other Notes & Information
 N/A
