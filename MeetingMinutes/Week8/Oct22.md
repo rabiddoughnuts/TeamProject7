@@ -1,6 +1,6 @@
 # Meeting Minutes
 ## Meeting Information
-**Meeting Date/Time:** Thur, 8 am
+**Meeting Date/Time:** Tus, 8 am
 **Meeting Location:** Russ 314
 **Note Taker:** Reese
 
