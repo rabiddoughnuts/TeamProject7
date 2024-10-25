@@ -52,7 +52,6 @@ def main():
     # paths should have already been resolved
     in_dir = sys.argv[1]
     out_dir = sys.argv[2]
-        
     
     files = [file for file in os.listdir(in_dir) if file.endswith(".png")] # think we only need to support png files?
     
