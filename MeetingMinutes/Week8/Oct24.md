@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield -
+- Reese Hatfield - Write a sftp/scp script for file transfer to AWS
 - Zack - Assisted in troubleshooting antenna problem for transmission by supplying an old part from home
 - Brandon -
 - Muhammed -
