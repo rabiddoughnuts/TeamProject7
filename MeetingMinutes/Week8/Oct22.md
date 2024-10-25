@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield - Finalize testing all scripts with matching i/o directories
 - Zack - Finished drafting the outline of our final presentation
 - Brandon - Tested different antenna connections, got best result with coax cable, soldered antenna
-- Muhammed -
+- Muhammed - Reviewed presentation outline, begin on finalizing presentation slides and scripts.
 - Nathan - 
 
 ## Other Notes & Information
