@@ -8,7 +8,7 @@
 People who attended:
 - Reese Hatfield -
 - Zack - Finished drafting the outline of our final presentation
-- Brandon -
+- Brandon - Tested different antenna connections, got best result with coax cable, soldered antenna
 - Muhammed -
 - Nathan - 
 
