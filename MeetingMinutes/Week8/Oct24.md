@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield - Write a sftp/scp script for file transfer to AWS
 - Zack - Assisted in troubleshooting antenna problem for transmission by supplying an old part from home
 - Brandon - Soldered second antenna, and organized personal parts from supplies parts, made sure we have everything we need properly supplied
-- Muhammed -
+- Muhammed - Copy a second SD card from the contents of the main working SD card storage for use of a second raspberry pi during back and forth transmission.
 - Nathan - 
 
 ## Other Notes & Information
