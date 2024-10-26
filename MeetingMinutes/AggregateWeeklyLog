@@ -85,6 +85,18 @@ W06: 10/10/24 8AM-9:20AM
 • 	Brandon - Troubleshoot hardware to isolate transmission issue from Pi to Computer
 • 	Muhammed - Worked on machine learning algorithm using roboflow, refining data and precision of model
 • 	Nathan - Provided alternative to wenet RTL-SDR topology
+W07: 10/15/24 8AM-9:20AM
+•   Reese Hatfield - Creating a prototype for red circle detection with OpenCV
+•	  Zack - Began drafting the final presentation and discussing its content with the group
+•	  Brandon - Troubleshooting transmission STILL
+•	  Muhammed - Continuing refining training model data for roboflow
+•	  Nathan - Assisting with transmission hardware troubleshooting
+W07: 10/17/24 8AM-9:20AM
+•	  Reese Hatfield - Making red circle detection work with whole directories instead of just a single image
+•	  Zack - Transferred encryption key, initial value, and md5 script to teammate posing as rebel server
+•	  Brandon - Finally got successful Transmission, working on testing transfer fidelity, and optimizing speed/tying functions together with scripting.
+•	  Muhammed -  Finalizing image recognition and detection machine learning model
+•	  Nathan - Assisting with transmission hardware troubleshooting
 W08: 10/22/24 8AM-920AM
 •    Reese Hatfield - Finalize testing all scripts with matching i/o directories
 •    Zack - Finished drafting the outline of our final presentation
