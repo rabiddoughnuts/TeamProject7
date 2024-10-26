@@ -75,13 +75,20 @@ W05: 10/03/24 8AM-9:20AM
 •	Nathan - Provided alternative Lora tutorial to inventory
 W06: 10/08/24 8AM-9:20AM
 • 	Reese Hatfield - Make output directory of RAID script configurable
-•	Zack - Worked with the team to settle on how the md5.sh script will hash images and be implemented
+•   Zack - Worked with the team to settle on how the md5.sh script will hash images and be implemented
 • 	Brandon - Troubleshoot wenet hardware and software configs for transmission.
 • 	Muhammed - Troubleshoot wenet transmission process.
 • 	Nathan - Informed team of The Things Network
 W06: 10/10/24 8AM-9:20AM
-•	Reese Hatfield - Continued training death star detection model using roboflow
+•   Reese Hatfield - Continued training death star detection model using roboflow
 • 	Zack - Generated aes-256-cbc key and iv to use for encryption and decryption during transmission
 • 	Brandon - Troubleshoot hardware to isolate transmission issue from Pi to Computer
 • 	Muhammed - Worked on machine learning algorithm using roboflow, refining data and precision of model
 • 	Nathan - Provided alternative to wenet RTL-SDR topology
+WO8: 10/22/24 8AM-920AM
+•    Reese Hatfield - Finalize testing all scripts with matching i/o directories
+•    Zack - Finished drafting the outline of our final presentation
+•    Brandon - Tested different antenna connections, got best result with coax cable, soldered antenna
+•    Muhammed - Reviewed presentation outline, begin on finalizing presentation slides and scripts.
+•    Nathan - Collected necessary parts for reception module, prepared them for assembly
+
