@@ -10,7 +10,7 @@ People who attended:
 - Zack - Finished drafting the outline of our final presentation
 - Brandon - Tested different antenna connections, got best result with coax cable, soldered antenna
 - Muhammed - Reviewed presentation outline, begin on finalizing presentation slides and scripts.
-- Nathan - 
+- Nathan - Collected necessary parts for reception module, prepared them for assembly
 
 ## Other Notes & Information
 N/A
