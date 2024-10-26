@@ -10,7 +10,7 @@ People who attended:
 - Zack - Assisted in troubleshooting antenna problem for transmission by supplying an old part from home
 - Brandon - Soldered second antenna, and organized personal parts from supplies parts, made sure we have everything we need properly supplied
 - Muhammed - Copy a second SD card from the contents of the main working SD card storage for use of a second raspberry pi during back and forth transmission.
-- Nathan - 
+- Nathan - Assisted with organizing materials to seperate class parts from personal loaner parts.
 
 ## Other Notes & Information
 N/A
