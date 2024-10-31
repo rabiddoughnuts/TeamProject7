@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield - 
 - Zack - 
 - Brandon - 
-- Muhammed -
+- Muhammed - Assisted setting up hardware for practice run of projection demonstration
 - Nathan -
 
 ## Other Notes & Information
