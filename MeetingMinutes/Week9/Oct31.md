@@ -10,7 +10,7 @@ People who attended:
 - Zack - Assisted in coordinating a test of our design
 - Brandon - 
 - Muhammed - Assisted setting up hardware for practice run of projection demonstration
-- Nathan -
+- Nathan - Coordinated the implementation of testing action plan
 
 ## Other Notes & Information
 N/A
