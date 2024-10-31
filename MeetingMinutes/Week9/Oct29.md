@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield -
-- Zack - 
+- Zack - Added more content needed for our presentation
 - Brandon - 
 - Muhammed - Finished formatting second SD card with copied image, boosted morale
 - Nathan - 
