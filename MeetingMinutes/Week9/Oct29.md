@@ -10,7 +10,7 @@ People who attended:
 - Zack - Added more content needed for our presentation
 - Brandon - 
 - Muhammed - Finished formatting second SD card with copied image, boosted morale
-- Nathan - 
+- Nathan - Prepared the process of testing procedure
 
 ## Other Notes & Information
 N/A
