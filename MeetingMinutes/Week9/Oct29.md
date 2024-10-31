@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield -
 - Zack - 
 - Brandon - 
-- Muhammed - 
+- Muhammed - Finished formatting second SD card with copied image, boosted morale
 - Nathan - 
 
 ## Other Notes & Information
