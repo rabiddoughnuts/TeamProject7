@@ -62,7 +62,8 @@ if [[ "$1" == "--in" ]]; then
     mkdir -p $OUTDIR
     
     # clean anything from past run
-    rm $OUTDIR/*
+    rm $OUTDIR/*.png
+    rm $OUTDIR/.bin
 
     echo "Classifying images in directory: $2"
 
