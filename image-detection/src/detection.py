@@ -1,4 +1,3 @@
-import operator
 from ultralytics import YOLO
 import sys
 import os
