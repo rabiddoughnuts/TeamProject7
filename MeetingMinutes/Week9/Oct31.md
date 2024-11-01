@@ -8,7 +8,7 @@
 People who attended:
 - Reese Hatfield - Hardware setup for final test with necessary package installation
 - Zack - Assisted in coordinating a test of our design
-- Brandon - 
+- Brandon - Ran test of image detection and md5sum script
 - Muhammed - Assisted setting up hardware for practice run of projection demonstration
 - Nathan - Coordinated the implementation of testing action plan
 
