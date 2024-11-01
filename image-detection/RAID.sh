@@ -68,6 +68,9 @@ if [[ "$1" == "--in" ]]; then
 
     python3 src/detection.py $2 $OUTDIR
 
+
+    cp 11-signal-finished.png $OUTDIR
+
     exit 0
 fi
 
