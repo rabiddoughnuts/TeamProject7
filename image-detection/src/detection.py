@@ -51,7 +51,7 @@ def main():
     for prefix_index, ((image_path, result), conf) in enumerate(top_10_images):
         # file = os.path.basename(image_path)
         # prefix = str(prefix_index).zfill(2)
-        new_path = os.path.join(output_dir, f"{prefix}.jpg")
+        new_path = os.path.join(output_dir, f"{prefix_index}.jpg")
         
         result.save(new_path)
         print(f"Saved {new_path} with confidence: {conf}")
