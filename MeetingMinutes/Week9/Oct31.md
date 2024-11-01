@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield - 
+- Reese Hatfield - Hardware setup for final test with necessary package installation
 - Zack - Assisted in coordinating a test of our design
 - Brandon - 
 - Muhammed - Assisted setting up hardware for practice run of projection demonstration
