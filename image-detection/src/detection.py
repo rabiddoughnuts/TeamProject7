@@ -49,11 +49,11 @@ def main():
 
     # horrible iterator im sorry
     for prefix_index, ((image_path, result), conf) in enumerate(top_10_images):
-        # file = os.path.basename(image_path)
-        # prefix = str(prefix_index).zfill(2)
-        new_path = os.path.join(output_dir, f"{prefix_index}.jpg")
+        file = os.path.basename(image_path)
+        prefix = str(prefix_index).zfill(2)
+        new_path = os.path.join(output_dir, f"{prefix}-{file}")
         
-        result.save(new_path)
+        result.save(pred)
         print(f"Saved {new_path} with confidence: {conf}")
 
 
