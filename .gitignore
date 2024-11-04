@@ -33,4 +33,6 @@ README.roboflow.txt
 # ignore copied output images
 out/
 
+#ignore detected images that we wanna test for transmission
+detected/
 
