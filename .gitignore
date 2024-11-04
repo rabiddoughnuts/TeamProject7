@@ -35,4 +35,4 @@ out/
 
 #ignore detected images that we wanna test for transmission
 detected/
-
+transmit-me/
