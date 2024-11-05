@@ -39,7 +39,7 @@ for img in "$in_dir"/*.jpg; do
     if [ -f "$img" ]; then
         new_filename="${counter}.jpg"
         convert "$img" -sampling-factor 2x2,1x1,1x1 -colorspace sRGB -strip -interlace none "$out_dir/$new_filename"
-        ssdv -e -n -q 6 -c "VK5QI" -i "$counter" "$out_dir/$new_filename" "$out_dir/${counter}.bin"        
+        ssdv -e -n -q 6 -c "VK5QI" -i "$counter" "$out_dir/$new_filename" "$out_dir/${counter}_raw.bin"        
         
         ((counter++))
     fi
