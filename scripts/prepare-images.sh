@@ -38,6 +38,7 @@ for img in "$in_dir"/*.jpg; do
     if [ -f "$img" ]; then
         base=$(basename "$img" .jpg)
         
+        # need sampling factor for the dqt thingy
         convert "$img" -sampling-factor 2x2,1x1,1x1 -colorspace sRGB -strip -interlace none "$out_dir/${base}_ssdv.jpg"
         
         ssdv -e -n -q 6 -c "VK5QI" -i "$base" "$out_dir/${base}_ssdv.jpg" "$out_dir/${base}.bin"
