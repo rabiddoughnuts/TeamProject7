@@ -1,12 +1,10 @@
-if [ "$#" -ne 1 ]; then
+if [ "$#" -ne 2 ]; then
     echo "Error: I need to know the directory to upload"  
-    usage
     exit 1
 fi
 
 if [ ! -d "$1" ]; then
     echo "Not a valid directory"
-    usage
     exit 1
 fi
 

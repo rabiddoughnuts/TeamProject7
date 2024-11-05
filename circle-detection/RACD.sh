@@ -31,14 +31,11 @@ if [ ! -d "$2" ]; then
     exit 1
 fi
 
-if [ ! -d "$4" ]; then
-    echo "Error: Output path '$4' is not a valid directory."
-    exit 1
-fi
 
 in_path=$(realpath "$2")
 out_path=$(realpath "$4")
 
+mkdir -p $out_dir
 
 python3 src/detect-circles.py $in_path $out_path
 
