@@ -53,7 +53,7 @@ def main():
         prefix = str(prefix_index).zfill(2)
         new_path = os.path.join(output_dir, f"{prefix}-{file}")
         
-        result.save(pred)
+        result.save(new_path)
         print(f"Saved {new_path} with confidence: {conf}")
 
 
