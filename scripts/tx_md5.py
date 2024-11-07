@@ -5,15 +5,16 @@ from radio_wrappers import *
 
 def transmit_file(filename, tx_object):
     file_size = os.path.getsize(filename)
-    if file_size % 256 > 0:
-        print("File size not a multiple of 256 bytes!")
-        return
+    total_packets = (file_size + 255) // 256  # Calculate total packets, rounding up if necessary
+    print("Transmitting %d Packets." % total_packets)
 
-    print("Transmitting %d Packets." % (file_size // 256))
     with open(filename, 'rb') as f:
-        for _ in range(file_size // 256):
+        for _ in range(total_packets):
             data = f.read(256)
+            if len(data) < 256:
+                data = data.ljust(256, b'\x00')  # Pad the last packet with zeros if it's less than 256 bytes
             tx_object.tx_packet(data)
+
     print("Waiting for tx queue to empty...")
     tx_object.wait()
 
