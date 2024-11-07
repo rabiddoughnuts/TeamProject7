@@ -6,11 +6,11 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield - 
+- Reese Hatfield - Ran full test (testing of image detection, transmission, and red circle detection and editing)
 - Zack - Tested transmission with team
-- Brandon - 
-- Muhammed - Assisted in demostrating the end to end testing of image detection, transmission, and red circle detection and editing. 
-- Nathan - 
+- Brandon - Ran full test (testing of image detection, transmission, and red circle detection and editing)
+- Muhammed - Assisted with full test
+- Nathan - Worked on slides
 ## Other Notes & Information
 N/A
 
