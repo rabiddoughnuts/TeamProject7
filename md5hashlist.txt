@@ -1,0 +1,10 @@
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/00-deathStar9.png)= 9ddc3374bbfd37cf3b88d5a110b306ed
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/01-deathStar5.jpg)= b87d3db5700bb7abf5984d49dd43016b
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/02-deathStar6.jpg)= e32a671cd5d5f129fd067c26edbfa2e2
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/03-deathStar10.jpg)= 5392b99812f20ce379f5653e63cc29c6
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/04-deathStar2.jpg)= 6da7ec8000b04bebf59cb21a91afd735
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/05-deathStar4.jpg)= 15c600b85a2088b06d4cb37b0cacd3c7
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/06-deathStar0.jpg)= 417bb856952d8fc002aa7dcdc68e0e85
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/07-deathStar3.jpeg)= f593afe96ed1558aa9e87516a1a62bc0
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/08-deathStar8.png)= 0fd081bbdf5ea8f47a5605a314ff5a2f
+MD5(/home/moshamma10/TeamProject7/image-detection/detected/09-deathStar7.png)= 2b7a3e287148bcbc23e94c44ea1848da
