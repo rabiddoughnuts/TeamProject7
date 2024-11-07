@@ -1,15 +1,15 @@
-##Step 1 Commands:
+## Step 1 Commands:
 steghide embed -cf ~/path/to/image.jpg -ef ~/data/to/embed
 Enter passphrase:
 Re-Enter passphrase:
 embedding "~/data/to/embed" in "~/path/to/image.jpg"... done
 
-##Step 2 Commands:
+## Step 2 Commands:
 steghide extract -sf ~/path/to/image.jpg
 Enter passphrase:
 wrote extracted data to "embed".
 
-##Notes
+## Notes
 Extracted data will have the same file name but will output into the home directory
 There is no built in option to change output location
 Steghide does not support PNG
