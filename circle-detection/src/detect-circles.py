@@ -53,7 +53,7 @@ def main():
     in_dir = sys.argv[1]
     out_dir = sys.argv[2]
     
-    files = [file for file in os.listdir(in_dir) if file.endswith(".png")] # think we only need to support png files?
+    files = [file for file in os.listdir(in_dir) if file.endswith(".jpg")] # think we only need to support png files?
     
     file_index = 0
     for file in files:
