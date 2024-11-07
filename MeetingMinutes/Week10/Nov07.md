@@ -6,11 +6,11 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield - 
-- Zack - Working on alternative to md5 transmission
-- Brandon -
+- Reese Hatfield - Worked on md5sum transmission and verification
+- Zack - Working on alternative to md5 transmission (steg hide)
+- Brandon - Worked on md5sum transmission and verification 
 - Muhammed - Continue working on final presentation slides.
-- Nathan - 
+- Nathan - Worked on slides
 ## Other Notes & Information
 N/A
 
