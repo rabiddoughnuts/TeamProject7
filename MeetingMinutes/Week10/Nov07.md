@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield - 
-- Zack - 
+- Zack - Working on alternative to md5 transmission
 - Brandon -
 - Muhammed - 
 - Nathan - 
