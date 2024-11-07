@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield - 
 - Zack - Working on alternative to md5 transmission
 - Brandon -
-- Muhammed - 
+- Muhammed - Continue working on final presentation slides.
 - Nathan - 
 ## Other Notes & Information
 N/A
