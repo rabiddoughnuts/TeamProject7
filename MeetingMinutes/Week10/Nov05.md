@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield - 
-- Zack - 
+- Zack - Tested transmission with team
 - Brandon -
 - Muhammed - 
 - Nathan - 
