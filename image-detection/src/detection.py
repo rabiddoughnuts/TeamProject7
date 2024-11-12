@@ -48,7 +48,7 @@ def main():
     top_10_images = sorted_images[:10] # last 10, goes from lower conf -> high conf
 
     # horrible iterator im sorry
-    for prefix_index, ((image_path, result), conf) in enumerate(top_10_images):
+    for prefix_index, ((image_piath, result), conf) in enumerate(top_10_images):
         file = os.path.basename(image_path)
         prefix = str(prefix_index).zfill(2)
         new_path = os.path.join(output_dir, f"{prefix}-{file}")

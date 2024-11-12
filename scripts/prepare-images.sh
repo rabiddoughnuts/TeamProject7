@@ -39,8 +39,25 @@ for img in "$in_dir"/*.jpg; do
     if [ -f "$img" ]; then
         new_filename="${counter}.jpg"
         convert "$img" -sampling-factor 2x2,1x1,1x1 -colorspace sRGB -strip -interlace none "$out_dir/$new_filename"
-        ssdv -e -n -q 6 -c "VK5QI" -i "$counter" "$out_dir/$new_filename" "$out_dir/${counter}_raw.bin"        
+        ssdv -e -n -q 6 -c "VK5QI" -i "$ " "$out_dir/$new_filename" "$out_dir/${counter}_raw.bin"        
         
         ((counter++))
     fi
 done
+
+
+# prepare hashes
+./hash-dir.sh $in_dir > hashes.txt
+convert 11.jpg -sampling-factor 2x2,1x1,1x1 -colorspace sRGB -strip -interlace none 11.jpg
+./stego/stego.sh -e --m hashes.txt --in 11.jpg --out "$out_dir/11.jpg"
+ssdv -e -n -q 6 -c "VK5QI" -i "$ " "$out_dir/11.jpg" "$out_dir/11_raw.bin"        
+
+
+
+
+# deal with final image
+# convert 12.jpg -sampling-factor 2x2,1x1,1x1 -colorspace sRGB -strip -interlace none 12.jpg
+cp 12.jpg $out_dir/12.jpg
+ssdv -e -n -q 6 -c "VK5QI" -i "$ " "$out_dir/12.jpg" "$out_dir/12_raw.bin"        
+
+

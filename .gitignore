@@ -38,3 +38,5 @@ detected/
 transmit-me/
 circle-detection/cropped
 circle-detection/images
+# ignore hash output
+hashes.txt
