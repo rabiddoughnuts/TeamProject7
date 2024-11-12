@@ -7,7 +7,7 @@
 ## Attendees
 People who attended:
 - Reese Hatfield - 
-- Zack - 
+- Zack - Captured images of design setup for presentation
 - Brandon - 
 - Muhammed - 
 - Nathan - 
