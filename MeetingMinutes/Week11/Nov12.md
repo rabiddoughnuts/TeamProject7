@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield - Encounted issue doing full test, debugging image transmission
+- Reese Hatfield - Encounted issue doing full test, debugging image transmission, wrote a prepare images script
 - Zack - Captured images of design setup for presentation
 - Brandon - 
 - Muhammed - Help troubleshoot wenet docker image issues
