@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield - 
 - Zack - 
 - Brandon - 
-- Muhammed - 
+- Muhammed - Reviewed documenatation for project in github repo to disseminate project outlines
 - Nathan - 
 ## Other Notes & Information
 N/A
