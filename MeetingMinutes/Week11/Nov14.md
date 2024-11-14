@@ -6,7 +6,7 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield - 
+- Reese Hatfield - Polish image preparation script, fix image transmission
 - Zack - Recorded successful transmission video for proof of concept working
 - Brandon - 
 - Muhammed - Reviewed documenatation for project in github repo to disseminate project outlines
