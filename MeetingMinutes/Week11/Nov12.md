@@ -9,7 +9,7 @@ People who attended:
 - Reese Hatfield - 
 - Zack - Captured images of design setup for presentation
 - Brandon - 
-- Muhammed - 
+- Muhammed - Help troubleshoot wenet docker image issues
 - Nathan - 
 ## Other Notes & Information
 N/A
