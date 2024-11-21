@@ -6,11 +6,11 @@
 
 ## Attendees
 People who attended:
-- Reese Hatfield -  Modified presentation slides
-- Zack -  Modified presentation slides
-- Brandon -  Modified presentation slides
-- Muhammed - Modified presentation slides 
-- Nathan -  Modified presentation slides
+- Reese Hatfield -  Presented project design slides
+- Zack -  Presented project design slides
+- Brandon -  Presented project design slides
+- Muhammed - Presented project design slides
+- Nathan -  Presented project design slides
 ## Other Notes & Information
 N/A
 
